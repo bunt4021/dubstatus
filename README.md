@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.doubledouble.top): <!--live status--> **🟥 Complete outage**
+# [📈 Live Status](https://status.doubledouble.top): <!--live status--> **🟥 Complete outage** 
 
 This repository contains the open-source uptime monitor and status page for [Guy Incognito](https://status.doubledouble.top), powered by [Upptime](https://github.com/upptime/upptime).
 
