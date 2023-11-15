@@ -1,22 +1,22 @@
 [
   {
     "name": "doubledouble",
-    "url": "https://doubledouble.top",
+    "url": "https://doubledouble.top/",
     "icon": "https://icons.duckduckgo.com/ip3/doubledouble.top.ico",
     "slug": "doubledouble",
-    "status": "down",
-    "uptime": "1.44%",
-    "uptimeDay": "1.44%",
-    "uptimeWeek": "1.44%",
-    "uptimeMonth": "1.44%",
-    "uptimeYear": "1.44%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.48%",
+    "uptimeDay": "0.48%",
+    "uptimeWeek": "0.48%",
+    "uptimeMonth": "0.48%",
+    "uptimeYear": "0.48%",
+    "time": 556,
+    "timeDay": 556,
+    "timeWeek": 556,
+    "timeMonth": 556,
+    "timeYear": 556,
     "dailyMinutesDown": {
-      "2023-11-15": 0
+      "2023-11-15": 12
     }
   }
 ]
