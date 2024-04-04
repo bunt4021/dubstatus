@@ -4,7 +4,7 @@
     "url": "https://doubledouble.top/",
     "icon": "https://icons.duckduckgo.com/ip3/doubledouble.top.ico",
     "slug": "doubledouble",
-    "status": "up",
+    "status": "down",
     "uptime": "96.89%",
     "uptimeDay": "95.30%",
     "uptimeWeek": "95.45%",
@@ -16,6 +16,7 @@
     "timeMonth": 1971,
     "timeYear": 1315,
     "dailyMinutesDown": {
+      "2024-04-04": 0,
       "2024-04-03": 67,
       "2024-04-02": 135,
       "2024-04-01": 135,
