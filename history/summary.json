@@ -6,17 +6,17 @@
     "slug": "doubledouble",
     "status": "up",
     "uptime": "98.15%",
-    "uptimeDay": "95.17%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "96.94%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "96.98%",
     "uptimeYear": "98.15%",
-    "time": 2204,
-    "timeDay": 5194,
-    "timeWeek": 4460,
-    "timeMonth": 3390,
-    "timeYear": 2204,
+    "time": 2202,
+    "timeDay": 1012,
+    "timeWeek": 4570,
+    "timeMonth": 3425,
+    "timeYear": 2202,
     "dailyMinutesDown": {
-      "2024-05-19": 69,
+      "2024-05-19": 64,
       "2024-05-18": 17,
       "2024-05-14": 67,
       "2024-05-13": 81,
@@ -65,7 +65,8 @@
       "2024-03-19": 30,
       "2024-03-18": 69,
       "2024-03-17": 14,
-      "2024-03-16": 48
+      "2024-03-16": 48,
+      "2024-03-14": 35
     }
   }
 ]
