@@ -4,12 +4,12 @@
     "url": "https://doubledouble.top/",
     "icon": "https://icons.duckduckgo.com/ip3/doubledouble.top.ico",
     "slug": "doubledouble",
-    "status": "up",
-    "uptime": "98.35%",
+    "status": "down",
+    "uptime": "98.37%",
     "uptimeDay": "84.11%",
     "uptimeWeek": "95.70%",
     "uptimeMonth": "95.53%",
-    "uptimeYear": "98.35%",
+    "uptimeYear": "98.37%",
     "time": 2451,
     "timeDay": 1713,
     "timeWeek": 3790,
@@ -67,7 +67,7 @@
       "2024-04-17": 372,
       "2024-04-16": 518,
       "2024-04-14": 222,
-      "2024-04-13": 55
+      "2024-04-13": 18
     }
   }
 ]
